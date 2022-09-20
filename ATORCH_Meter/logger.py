@@ -1,5 +1,4 @@
 import csv
-from tkinter import N
 
 class AverageMeter():
 

@@ -1,9 +1,6 @@
 from asyncio.log import logger
-from distutils.command.clean import clean
-from lzma import is_check_supported
 import os
 import asyncio
-import struct
 
 from .logger import AverageMeter, csv_logger
 from datetime import datetime
